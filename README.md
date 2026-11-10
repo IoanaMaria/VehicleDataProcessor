@@ -1,6 +1,6 @@
 # VehicleDataProcessor
 
-A C++17 automotive learning project that simulates vehicle and ADAS messages,
+A automotive project that simulates vehicle and ADAS messages,
 processes them, and will eventually display the resulting state on a dashboard.
 
 ## Architecture
