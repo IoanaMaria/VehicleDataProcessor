@@ -1,0 +1,4 @@
+set(__QT_DEPLOY_TARGETS "vehicle_data_processor")
+set(__QT_DEPLOY_TARGET_vehicle_data_processor_FILE D:/repos/Cpp training/VehicleDataProcessor/build_qt_nmake/vehicle_data_processor.exe)
+set(__QT_DEPLOY_TARGET_vehicle_data_processor_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_vehicle_data_processor_RUNTIME_DLLS C:/Qt/6.12.0/msvc2022_64/bin/Qt6Core.dll)

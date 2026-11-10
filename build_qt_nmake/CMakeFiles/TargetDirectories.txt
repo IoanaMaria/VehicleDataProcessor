@@ -1,0 +1,5 @@
+D:/repos/Cpp training/VehicleDataProcessor/build_qt_nmake/CMakeFiles/vehicle_data_processor.dir
+D:/repos/Cpp training/VehicleDataProcessor/build_qt_nmake/CMakeFiles/edit_cache.dir
+D:/repos/Cpp training/VehicleDataProcessor/build_qt_nmake/CMakeFiles/rebuild_cache.dir
+D:/repos/Cpp training/VehicleDataProcessor/build_qt_nmake/CMakeFiles/vehicle_data_processor_autogen_timestamp_deps.dir
+D:/repos/Cpp training/VehicleDataProcessor/build_qt_nmake/CMakeFiles/vehicle_data_processor_autogen.dir
