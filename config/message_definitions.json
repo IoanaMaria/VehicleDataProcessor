@@ -1,0 +1,38 @@
+{
+  "simulation": {
+    "message_interval_ms": 1000
+  },
+  "messages": [
+    {
+      "message_id": "vehicle_status",
+      "cyclic": true,
+      "signals": [
+        "power_state",
+        "gear_position",
+        "left_door_open",
+        "right_door_open",
+        "hood_open",
+        "trunk_open",
+        "left_indicator",
+        "right_indicator",
+        "hazard_lights",
+        "vehicle_speed_kph"
+      ]
+    },
+    {
+      "message_id": "adas_status",
+      "cyclic": true,
+      "signals": [
+        "fcw",
+        "aeb",
+        "pedestrian_detection",
+        "blind_spot_monitoring",
+        "lane_departure_warning",
+        "lane_keeping_assist",
+        "adaptive_cruise_control",
+        "park_assist",
+        "rear_cross_traffic_alert"
+      ]
+    }
+  ]
+}
